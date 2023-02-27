@@ -6,7 +6,7 @@
 package calculadora1;
 
 /**
- *
+ *EL TRABAJO ESTA PERFECTO 
  * @author redes
  * @version 22/23
  * @serial Febrero 2023
